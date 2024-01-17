@@ -1,3 +1,28 @@
+# Data Scientist
+
+#### Technical Skills: Python,ML, SQL, GCP, Snowflake, MATLAB
+
+## Education
+- Masters in Computer Science and Engineering | University at Buffalo (Aug 2023 - Dec 2024)								       		
+
+## Work Experience
+**Associate Software Engineer @ Deutsche Bank Operations International (_Aug 2020 - September 2023_)**
+-Developed an ML model to predict ETA of compute-intensive PnL calculations, saving 2 hours of daily support effort.
+-Led the design and delivery of microservices managing data and state of 800k+ events processed by the ETA model.
+-Implemented a pipeline to build and deploy Python container images on Openshift, reducing deployment time by 70%.
+-Engineered a data pipeline to transfer event logs from Splunk to Postgresql, resulting in a 30% reduction in analysis time.
+-Tech Stack: Scikit-learn, Pandas, Python, Flask, Gunicorn, Docker, Jenkins, Splunk, Postgresql
+
+## Projects
+### Predictive Modeling for Term Deposit Subscription in Bank Marketing Campaigns
+
+Developed a predictive model for a Portuguese bank’s marketing campaign, guiding the team in model evaluation and delivering a Web UI tool for term deposit predictions and trend analysis
+
+
+- [Data Science Blog](https://medium.com/@shawhin)
+
+
+
 Ranga Sai Prasanth Manda
 Address
 137 Springville Avenue, Buffalo-14226, New York, United States
