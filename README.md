@@ -1,14 +1,14 @@
 # Data Scientist
 
 #### Technical Skills: AI/ML,DL,Devops,Python,SQL,Flask,Apache Spark,kafka,Docker,Kubernetes,Jenkins,GCP,Postgresql.
-###Languages: Python, C, C++, SQL, Unix-shell scripting, VB scripting, SPL, ARM Assembly, HTML, CSS.
-###Technologies/Frameworks: Helm, Fabric, Flask, Devops, Jenkins, Confluence, GitHub, BitBucket, JIRA.
-###Developer Tools: HPE UFT, Splunk, Proteus, Energia, Jupyter, Eclipse, MATLAB, MS Office.
-###Databases: MySQL, Oracle, Postgresql, MongoDB
+#### Languages: Python, C, C++, SQL, Unix-shell scripting, VB scripting, SPL, ARM Assembly, HTML, CSS.
+#### Technologies/Frameworks: Helm, Fabric, Flask, Devops, Jenkins, Confluence, GitHub, BitBucket, JIRA.
+#### Developer Tools: HPE UFT, Splunk, Proteus, Energia, Jupyter, Eclipse, MATLAB, MS Office.
+#### Databases: MySQL, Oracle, Postgresql, MongoDB
 
 
 ## Education
-- Masters in Computer Science and Engineering | University at Buffalo (Aug 2023 - Dec 2024)		| GPA: 4.0/4.0		       		
+Masters in Computer Science and Engineering | University at Buffalo (Aug 2023 - Dec 2024)		| GPA: 4.0/4.0		       		
 
 ## Work Experience
 **Associate Software Engineer @ Deutsche Bank Operations International (_Aug 2020 - September 2023_)**
