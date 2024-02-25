@@ -19,7 +19,6 @@
 Developed a predictive model for a Portuguese bank’s marketing campaign, guiding the team in model evaluation and delivering a Web UI tool for term deposit predictions and trend analysis
 
 
-- [Data Science Blog](https://medium.com/@shawhin)
 
 
 
