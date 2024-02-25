@@ -36,10 +36,9 @@ Implemented a real-time object detection model using YOLOv2 to aid visually impa
 - Key Skills: Deep learning , Tensorflow
 - Constructed a convolutional neural network was built using tensorflow and was trained and tested
 on MNIST dataset.
-###ECOMMERCE WEBSITE
+### ECOMMERCE WEBSITE
 - Key Skills: Html, Css, Psp, Bootstrap, Mysql
 - Description: A website for online product sale that provides the user with a catalog of different products available for purchase in the store.
-
 
 ### JASPER - BOT WITH IMAGE PROCESSING AND SPEECH RECOGNITION Aug 2019 - Apr 2020
 - Key Skills: OpenCV , Python , Machine learning , Rasberry Pi,Image Processing
