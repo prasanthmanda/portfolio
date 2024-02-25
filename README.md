@@ -23,16 +23,14 @@ Masters in Computer Science and Engineering | University at Buffalo (Aug 2023 - 
   
 ## Projects
 ### Predictive Modeling for Term Deposit Subscription in Bank Marketing Campaigns (Aug 2023 - Nov 2023)
-
-Developed a predictive model for a Portuguese bank’s marketing campaign, guiding the team in model evaluation and delivering a Web UI tool for term deposit predictions and trend analysis
-Key Skills: ML, Python, Flask, HTML, CSS, Git
+- Developed a predictive model for a Portuguese bank’s marketing campaign, guiding the team in model evaluation and delivering a Web UI tool for term deposit predictions and trend analysis
+- Key Skills: ML, Python, Flask, HTML, CSS, Git
 ### Road Crossing Aid for the Visually Impaired (Aug 2023 - Nov 2023)
 Key Skills: Python, ML
 Implemented a real-time object detection model using YOLOv2 to aid visually impaired individuals in road crossing.
-###eXpOS - Experimental Operating System (Aug 2023 - Dec 2023)
-
-Key Skills: SPL
-Developed an experimental Operating System on XSM, featuring Multi-Programming, Interrupt handling, Virtual Memory, Demand Paging, Exception Handling, and System Calls.
+### eXpOS - Experimental Operating System (Aug 2023 - Dec 2023)
+- Key Skills: SPL
+- Developed an experimental Operating System on XSM, featuring Multi-Programming, Interrupt handling, Virtual Memory, Demand Paging, Exception Handling, and System Calls.
 
 ### HAND WRITTEN DIGIT RECOGNITION USING CNN Aug 2023 - Nov 2023
 - Key Skills: Deep learning , Tensorflow
