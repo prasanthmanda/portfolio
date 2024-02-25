@@ -14,11 +14,13 @@ Masters in Computer Science and Engineering | University at Buffalo (Aug 2023 - 
 - Developed an "Automated login trend reporting" tool using Python for generating user login statistics and graphical insights.
 - Enhanced the Appway Test automation framework with HPE UFT and VB scripting for KYC business functions.
 - Conducted Knowledge Transfer sessions, supporting and mentoring new team members.
+  
 ## KEY SKILLS
 - Languages: Python, C, C++, SQL, Unix-shell scripting, VB scripting, SPL, ARM Assembly, HTML, CSS.
 - Technologies/Frameworks: Helm, Fabric, Flask, Devops, Jenkins, Confluence, GitHub, BitBucket, JIRA.
 - Developer Tools: HPE UFT, Splunk, Proteus, Energia, Jupyter, Eclipse, MATLAB, MS Office.
 - Databases: MySQL, Oracle, Postgresql, MongoDB
+  
 ## Projects
 ### Predictive Modeling for Term Deposit Subscription in Bank Marketing Campaigns (Aug 2023 - Nov 2023)
 
