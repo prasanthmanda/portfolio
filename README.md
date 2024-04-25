@@ -7,19 +7,19 @@ Masters in Computer Science and Engineering | University at Buffalo (Aug 2023 - 
 
 ## Work Experience
 **Senior Software Engineer @ Deutsche Bank Operations International (_September 2021 - September 2023_)**
-⁃ Led the design and delivery of Python microservices processing 800k+ events daily.
-⁃ Automated the process of building and deploying Python docker images on k8s using Gunicorn.
-⁃ Built a regression model to predict the ETA of compute-intensive PnL calculations, saving 2+ hrs of L2 support daily.
-⁃ Integrated Helm charts for managing and deploying Python container images, reducing deployment effort by 40%.
-⁃ Deployed PostgreSQL via OpenShift , Docker, automating partitions for 10TB data, yielding 30% better performance.
-⁃ Engineered a data pipeline to transfer event logs from Splunk to PostgreSQL, improving data accessibility.
-⁃ Mentored a student in deploying a Python microservice, for retrieving SDLC data using Jira and Bitbucket REST APIs.
+- Led the design and delivery of Python microservices processing 800k+ events daily.
+- Automated the process of building and deploying Python docker images on k8s using Gunicorn.
+- Built a regression model to predict the ETA of compute-intensive PnL calculations, saving 2+ hrs of L2 support daily.
+- Integrated Helm charts for managing and deploying Python container images, reducing deployment effort by 40%.
+- Deployed PostgreSQL via OpenShift , Docker, automating partitions for 10TB data, yielding 30% better performance.
+- Engineered a data pipeline to transfer event logs from Splunk to PostgreSQL, improving data accessibility.
+- Mentored a student in deploying a Python microservice, for retrieving SDLC data using Jira and Bitbucket REST APIs.
 
 **Software Engineer @ Deutsche Bank Operations International (_Aug 2020 - Aug 2021_)**
-⁃ Developed a Spring Boot microservice and a React dashboard to orchestrate and manage PnL dataflows.
-⁃ Implemented a CI/CD pipeline to containerize and deploy Java microservices(S2I) on K8s using Jenkins.
-⁃ Devised a pipeline to build, test, and deploy React applications on the Apache HTTP server.
-⁃ Developed “Automated login trend reporting” tool using python to generate user login stats and graphical insights.
+- Developed a Spring Boot microservice and a React dashboard to orchestrate and manage PnL dataflows.
+- Implemented a CI/CD pipeline to containerize and deploy Java microservices(S2I) on K8s using Jenkins.
+- Devised a pipeline to build, test, and deploy React applications on the Apache HTTP server.
+- Developed “Automated login trend reporting” tool using python to generate user login stats and graphical insights.
 
 ## KEY SKILLS
 - Languages: Python, C, C++, SQL, Unix-shell scripting, VB scripting, SPL, ARM Assembly, HTML, CSS.
