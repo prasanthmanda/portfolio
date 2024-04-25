@@ -14,6 +14,7 @@ Masters in Computer Science and Engineering | University at Buffalo (Aug 2023 - 
 ⁃ Deployed PostgreSQL via OpenShift , Docker, automating partitions for 10TB data, yielding 30% better performance.
 ⁃ Engineered a data pipeline to transfer event logs from Splunk to PostgreSQL, improving data accessibility.
 ⁃ Mentored a student in deploying a Python microservice, for retrieving SDLC data using Jira and Bitbucket REST APIs.
+
 **Software Engineer @ Deutsche Bank Operations International (_Aug 2020 - Aug 2021_)**
 ⁃ Developed a Spring Boot microservice and a React dashboard to orchestrate and manage PnL dataflows.
 ⁃ Implemented a CI/CD pipeline to containerize and deploy Java microservices(S2I) on K8s using Jenkins.
