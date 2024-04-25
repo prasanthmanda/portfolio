@@ -22,10 +22,27 @@ Masters in Computer Science and Engineering | University at Buffalo (Aug 2023 - 
 - Databases: MySQL, Oracle, Postgresql, MongoDB
   
 ## Projects
-### Predictive Modeling for Term Deposit Subscription in Bank Marketing Campaigns (Aug 2023 - Nov 2023)
+### Multi-Modal Deep Learning for Sentiment Analysis of Internet Memes (Jan 2024 - Present)
+- Leveraged multi-modal deep learning techniques to analyze sentiment in internet memes, combining image andtext analysis with advanced neural networks to understand nuanced expressions of humor and opinion.
+- Key Skills: Deep Learning, LSTMs ,Transfer Learning
+
+### Pintos Operating System (Jan 2024 - Present)
+- Key Skills: C,OS
+- Implemented advanced threading, synchronization, priority donation, MLFQS, safe memory access, system calls.
+
+### Healthcare Database Management System. (Jan 2024 - Present)
+- Key Skills: PostgreSQL, Python, Power BI
+- Implemented a PostgreSQL Healthcare database with solid design principles for effective data management.
+- Designed an engaging Power BI dashboard for healthcare management, data-driven decisions.
+  
+### Improving User Experience for Bank Marketing Campaign Tools. (Aug 2023 - Nov 2023)
 - Developed a predictive model for a Portuguese bank’s marketing campaign, guiding the team in model evaluation and delivering a Web UI tool for term deposit predictions and trend analysis
 - Key Skills: ML, Python, Flask, HTML, CSS, Git
-  
+
+### Word Count Application For Advanced Text Processing. (Aug 2023 - Nov 2023)
+- Developed an advanced text analytics solution using Hadoop, MapReduce and PySpark.
+- Key Skills: Java, Hadoop, Apache Spark
+ 
 ### Road Crossing Aid for the Visually Impaired (Aug 2023 - Nov 2023)
 Key Skills: Python, ML
 Implemented a real-time object detection model using YOLOv2 to aid visually impaired individuals in road crossing.
